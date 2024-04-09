@@ -92,8 +92,8 @@
   overflow: hidden;
   flex-direction: column;
   justify-content: flex-start;
-  line-height: normal;
   letter-spacing: normal;
+  line-height: normal;
 }
 @media screen and (max-width: 1225px) {
   .topNavHeader {
